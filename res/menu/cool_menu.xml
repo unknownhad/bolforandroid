@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/setWall"
+        android:title="Set As WallPaper"/>
+    <item
+        android:id="@+id/saveSD"
+        android:title="Save Image"/>
+    <item
+        android:id="@+id/imageList"
+        android:title="Image List"/>
+    <item
+        android:id="@+id/importImage"
+        android:title="Browse Images"/>
+    <item
+        android:id="@+id/aboutUs"
+        android:title="About Us"/>
+    <item
+        android:id="@+id/exit"
+        android:title="Exit"/>
+
+</menu>
